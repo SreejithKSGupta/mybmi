@@ -1,4 +1,4 @@
-# mybmi
+# My BMI
 
 A Material 3 Flutter App to Calculate BMI (Body Mass Index)
 
