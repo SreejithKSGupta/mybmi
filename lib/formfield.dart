@@ -134,11 +134,20 @@ class _FormBoxState extends State<FormBox> {
             ),
           ),
           Text(
-            'The results are just for reference.',
+            'The BMI numbers are just for reference, and not some defenitive results',
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: Theme.of(context).textTheme.labelLarge!.fontSize,
             ),
+            
+          ),
+           Text(
+            'BMI is calculated identically for all Genders and Ages, but may vary due to their differences.',
+            textAlign: TextAlign.center,
+            style: TextStyle(
+              fontSize: Theme.of(context).textTheme.labelLarge!.fontSize,
+            ),
+            
           ),
         ],
       ),
