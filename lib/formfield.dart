@@ -69,7 +69,7 @@ class _FormBoxState extends State<FormBox> {
           SizedBox(
             width: MediaQuery.of(context).size.width * 0.6,
             child: Slider(
-              activeColor: Theme.of(context).colorScheme.onBackground,
+              activeColor: Theme.of(context).colorScheme.onSurface,
               secondaryActiveColor: Theme.of(context).colorScheme.onPrimary,
               inactiveColor: Theme.of(context).colorScheme.onPrimary,
               thumbColor: Theme.of(context).colorScheme.surface,
