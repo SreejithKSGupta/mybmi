@@ -1,16 +1,12 @@
-# mybmi
+# My BMI
 
-A new Flutter project.
+A Material 3 Flutter App to Calculate BMI (Body Mass Index)
 
-## Getting Started
+## Features ##
+Material 3 deign Language
+Dynamic Theming support
 
-This project is a starting point for a Flutter application.
+![Sample Screenshot](https://github.com/SreejithKSGupta/mybmi/assets/72187226/50fc023f-453e-4db1-b8be-dec15fe4d109)
+![Sample Screenshot](https://github.com/SreejithKSGupta/mybmi/assets/72187226/a587f07d-300e-4dcd-a41e-7dbbb9f4ecc6)
+![Sample Screenshot](https://github.com/SreejithKSGupta/mybmi/assets/72187226/3e872cc9-847e-4887-bb6b-574827764477)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
